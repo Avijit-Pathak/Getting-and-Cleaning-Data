@@ -42,14 +42,14 @@ Read various data sets given as txt files
 
 ####Varibles used
 
-*feature for features.txt
-*activitylab for activity_labels.txt
-*subjecttrain for subject_train.txt
-*xtrain for x_train.txt
-*ytrain for y_train.txt
-*subjecttest for subject_test.txt
-*xtest for x_test.txt
-*ytest for y_test.txt
+-feature for features.txt
+-activitylab for activity_labels.txt
+-subjecttrain for subject_train.txt
+-xtrain for x_train.txt
+-ytrain for y_train.txt
+-subjecttest for subject_test.txt
+-xtest for x_test.txt
+-ytest for y_test.txt
 
 #2. Extract only the measurements on the mean and standard deviation for each measurement.
 
